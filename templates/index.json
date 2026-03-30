@@ -78,6 +78,7 @@
         "slide_DXH6Lj": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo 2026",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Om-3-Prem-Banner-8.png",
             "image_tablet": "shopify://shop_images/Omega3_Tablet_1500x1377_27c10706-ba6d-4c72-b621-228c6e3ebf96.png",
