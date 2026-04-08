@@ -1,7 +1,7 @@
 (function(UserLocation, $) {
   "use strict";
 
-  var testMode = true;
+  var testMode = false;
 
   var defaultSubDomain = "global";
   var defaultDomain = "xtendlife.com";
