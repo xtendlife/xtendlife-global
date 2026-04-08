@@ -46,7 +46,7 @@
   // Get the domain for the corresponding country
   var getDomain = function(country)
   {
-    var storeDomain = defaultSubDomain + "." + defaultDomain;;
+    var storeDomain = defaultSubDomain + "." + defaultDomain;
     if (sites[country.toLowerCase()]) {
       if(sites[country.toLowerCase()].indexOf(".") > -1)
       {
