@@ -1,13 +1,17 @@
 (function(UserLocation, $) {
   "use strict";
 
-  var testMode = false;
+  var testMode = true;
+
+  var defaultSubDomain = "global";
+  var defaultDomain = "xtendlife.com";
 
   var sites = {
     gb: "xtendlife.co/en-gb",
     nz: "xtendlife.co",
     au: "xtendlife.co/en-au",
-    ca: "xtendlife.com/en-ca"
+    ca: "xtendlife.com/en-ca",
+    us: "xtendlife.com"
   };
 
   var ipWhitelist = [
@@ -37,7 +41,7 @@
 
   var getDomain = function(country)
   {
-    var storeDomain = "xtendlife.com";
+    var storeDomain = defaultDomain;
     if (sites[country.toLowerCase()]) {
       if(sites[country.toLowerCase()].indexOf(".") > -1)
       {
@@ -54,18 +58,12 @@
 
   var setCountryCookie = function(country) {
     var storeDomain = getDomain(country);
+    console.log("Set country cookie: ", country);
+    console.log("Set country cookie domain: ", storeDomain);
     $.cookie("user-location", country, {
       expires: 1,
       path: "/",
       domain: storeDomain
-    });
-  };
-
-  var setMeaLpCookie = function() {
-    $.cookie("user-location", "us", {
-      expires: 1,
-      path: "/",
-      domain: ".xtendlife.com"
     });
   };
 
@@ -123,31 +121,33 @@
   var redirectLocation = function(country) {
     console.log("window.location.href: ", window.location.href);
     //window.location.href.indexOf("admin.shopify.com/store") == -1
-    if (window.location.href.indexOf("xtendlife.myshopify.com") == -1){
-      // Global default subdomain.
+    if (window.location.href.indexOf("xtendlife.myshopify.com") == -1){      
       var marketPaths = ['/en-ca', '/en-au', '/en-gb'];
       var protocol = "https://";
-      var subDomain = "";
-      var storeDomain = "xtendlife.com";
+      var subDomain = defaultSubDomain;
+      var storeDomain = defaultDomain;
       var marketPath = '';
       var hasMarketPath = false;
       var incorrectPath = false;
       var currentMarketPath = '';
       var currentHasMarketPath = false;
 
-      var countryUri = storeDomain;      
+      var countryUri = defaultSubDomain + "." + defaultDomain;      
 
+      //Allow any user on the main blog
       if(window.location.href.indexOf('xtendlife.com/blogs/health-articles') != -1)
       {
         console.log("URL is main blog, no redirect, exit.")
         return;
       }
 
+      //Set the corresponding domain if a country is assigned one
       if (sites[country.toLowerCase()]) {        
         storeDomain = sites[country.toLowerCase()];
         countryUri = storeDomain;
       }
       console.log('Country URL match', countryUri);
+      
       
       var uri = new URL(protocol + countryUri);
       console.log('Country URL', uri);
@@ -197,6 +197,7 @@
       var hashParam = window.location.hash;
       console.log('Current hash parameter:', hashParam);
       
+      //Include the original path if one exists
       var path = window.location.pathname;
       console.log('Current path:', path);
       
