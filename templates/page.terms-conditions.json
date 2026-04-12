@@ -168,6 +168,7 @@
         },
         "collapsible_row_yrUHrB": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Omega 3/ DHA Plus Promotion",
             "icon": "none",
@@ -177,6 +178,7 @@
         },
         "collapsible_row_CkyyCT": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Sitewide Promotion",
             "icon": "none",
@@ -186,6 +188,7 @@
         },
         "collapsible_row_cADFt4": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Sitewide last chance",
             "icon": "none",
