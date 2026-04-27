@@ -195,6 +195,15 @@
             "row_content": "<ul><li>The 15% discount offer is available from 5:00 PM EDT March 24, 2026 to 11:00 PM EDT March 26, 2026, or until supplies last, whichever occurs first.  </li><li>Receive 15% off sitewide when you use the specified discount code in the Xtendlife online store. </li><li>Excludes SuperDay for Kids, SuperDay for Adults, SuperDay for 60+, all bundles and the electric mixer whisk.  </li><li>The offer cannot be applied to previous purchases or be combined with other special discounts, discount codes or offers.   Subscribe & Save members must place a new order through checkout. </li><li>The Omega 3 / DHA Plus and DrTalks promo code cannot be used in conjunction with this offer.  </li><li>If you return your product purchased in the discount period, the dollar value of the discounted product will be refunded. </li><li>To qualify, the discount code must be entered on the Xtendlife website in the discount code field at checkout.  </li><li>The discount code is valid exclusively for one use per customer on the Xtendlife checkout.  </li><li>The discount code cannot be deducted retrospectively once the order has been completed and charged.  </li><li> The offer cannot be applied to previous purchases or be combined with other special discounts, discount codes or offers. Subscribe & Save members must place a new order through checkout. </li><li>The discount code is not transferable and may not be resold or redeemed for cash.  </li><li>The discount code will be invalid if any of the terms and conditions are violated.  </li></ul>",
             "page": ""
           }
+        },
+        "collapsible_row_RPqHGM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Free Shipping",
+            "icon": "none",
+            "row_content": "<p>Receive FREE courier and standard shipping on all orders for a limited time. The offer is valid from 6:30 PM EDT April 27, 2026 to 6:30 PM EDT April 29, 2026   </p><p>No code is required. No Minimum spending required. </p><p> FREE shipping applies to DHL Express Courier, Standard Economy, Standard Mail or UPS Standard Shipping.   </p><p>All scheduled Subscribe & Save orders during the promotional period are automatically eligible for free shipping. </p><p>DHL Express Courier Shipping cannot be shipped to P.O. Box numbers. </p><p>The offer cannot be applied to previous purchases.  </p><p>The offer will be invalid if any of the terms and conditions are violated.   </p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -215,7 +224,8 @@
         "collapsible_row_B44qPe",
         "collapsible_row_yrUHrB",
         "collapsible_row_CkyyCT",
-        "collapsible_row_cADFt4"
+        "collapsible_row_cADFt4",
+        "collapsible_row_RPqHGM"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
