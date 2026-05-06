@@ -45,6 +45,7 @@
         },
         "slide_fyNhkn": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mother_s_Day_HP_LAND_Desk_1920x685_a641339f-2b06-46f0-bca9-10e65c6160af.jpg",
             "image_tablet": "shopify://shop_images/XL_Mothers_Day_HP_LAND_Tablet_1500x1377_38bf2200-9885-4701-bc77-145bbfb04c8c.jpg",
