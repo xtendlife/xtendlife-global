@@ -20,36 +20,36 @@
     "image_banner_pFjbBG": {
       "type": "image-banner",
       "blocks": {
-        "buttons_JR9Vpa": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "RECOMMENDED BY DR. JOEL KHAN",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "heading_4P8W9w": {
           "type": "heading",
           "settings": {
-            "heading": "Nutrition For Your Heart",
+            "heading": "What Actually Works For Heart Health",
             "heading_size": "h1"
           }
         },
         "text_FxFrdN": {
           "type": "text",
           "settings": {
-            "text": "Trusted by experts, our heart health formulas combine clinically studied ingredients to support circulation, cholesterol balance, and overall cardiovascular wellness - helping you stay strong at heart.",
+            "text": "Practical, science-backed advice you can stick to.",
             "text_style": "subtitle"
+          }
+        },
+        "buttons_JR9Vpa": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SAVE YOUR SPOT",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "buttons_JR9Vpa",
         "heading_4P8W9w",
-        "text_FxFrdN"
+        "text_FxFrdN",
+        "buttons_JR9Vpa"
       ],
       "custom_css": [
         ".subtitle {max-width: 460px; margin-top: 2rem;}",
@@ -81,9 +81,8 @@
         "column_dPkBXE": {
           "type": "column",
           "settings": {
-            "icon": "shopify://shop_images/Icon.svg",
             "title": "",
-            "text": "<p>Trusted Brand for over 26 years</p>",
+            "text": "<p>Thurs 28 May, 7PM EST</p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -92,9 +91,8 @@
         "column_84WnVg": {
           "type": "column",
           "settings": {
-            "icon": "shopify://shop_images/Icon_1.svg",
             "title": "",
-            "text": "<p>Proudly New Zealand Owned</p>",
+            "text": "<p>Approx. 60 Minutes</p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -103,9 +101,8 @@
         "column_bqhLTR": {
           "type": "column",
           "settings": {
-            "icon": "shopify://shop_images/Icon_2.svg",
             "title": "",
-            "text": "<p>365 Days Guaranteed</p>",
+            "text": "<p>Online - Free to attend</p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -134,7 +131,7 @@
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "color_scheme": "scheme-1",
         "columns_mobile": "2",
