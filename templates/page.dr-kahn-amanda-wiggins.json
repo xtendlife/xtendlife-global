@@ -36,6 +36,7 @@
         },
         "buttons_JR9Vpa": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "SAVE YOUR SPOT",
             "button_link_1": "",
@@ -142,6 +143,7 @@
     },
     "featured_collection_tab_grid_Ddm4Df": {
       "type": "featured-collection-tab-grid",
+      "disabled": true,
       "custom_css": [
         ".collection__title_inline {border-top: 1px solid; border-color: rgba(31, 25, 71, 0.3); padding-top: 2rem;}"
       ],
@@ -178,110 +180,49 @@
         "padding_bottom": 80
       }
     },
-    "reviews_slider_EnTCee": {
-      "type": "reviews-slider",
+    "rich_text_AyjiXB": {
+      "type": "rich-text",
       "blocks": {
-        "review_dXy8WH": {
-          "type": "review",
+        "heading_KD7tLz": {
+          "type": "heading",
           "settings": {
-            "title": "Heart Health Support",
-            "description": "<p>This is my go-to supplement for science-proven heart health support.</p>",
-            "person": "Brian, USA",
-            "product": "cx8-heart-health-support"
+            "heading": "Practical Heart Health Tips. No Fluff.",
+            "heading_size": "h1"
           }
         },
-        "review_HzjgFA": {
-          "type": "review",
+        "text_9r8URh": {
+          "type": "text",
           "settings": {
-            "title": "Heart in Good Condition",
-            "description": "<p>It has been great for me. After 2 artery operations. Both surgeons said my heart was in very good condition.</p>",
-            "person": "Alex, USA",
-            "product": "cx8-heart-health-support"
+            "text": "<p>There's more advice about fitness, diet, and supplements out there than ever before, and most of it is contradictory. This session is about cutting through all of that.</p><p>Dr. Joel Kahn, \"America's Healthy Heart Doctor\" and Xtendlife Lead Scientist Dr. Amanda Wiggins bring together decades of clinical and scientific expertise for a frank, evidence-based conversation about what it really takes to support a healthy heart.</p><p>Expect honest answers, practical tips, and clear takeaways.</p>"
           }
         },
-        "review_6xy4xw": {
-          "type": "review",
+        "button_hbgNqU": {
+          "type": "button",
           "settings": {
-            "title": "Take this if you take statins",
-            "description": "<p>I am glad to take this product to offset possible side effects of low co q10 due to statins. Highly recommend this product!</p>",
-            "person": "Peggy, USA",
-            "product": "gg-pure"
-          }
-        },
-        "review_KcRaMj": {
-          "type": "review",
-          "settings": {
-            "title": "CX8-Cardio Support",
-            "description": "<p>Unbelievable I really feel a difference.</p>",
-            "person": "Sandra, USA",
-            "product": "cx8-heart-health-support"
-          }
-        },
-        "review_HmjwX3": {
-          "type": "review",
-          "settings": {
-            "title": "Great results",
-            "description": "<p>I’ve only been using the CX8 for a couple of months now and I’ve seen improvements to my health!</p>",
-            "person": "Aaron, USA",
-            "product": "cx8-heart-health-support"
-          }
-        },
-        "review_96pb83": {
-          "type": "review",
-          "settings": {
-            "title": "Incredible for Blood Flow",
-            "description": "<p>It has helped me significantly with blood flow issues. </p>",
-            "person": "John, USA",
-            "product": "vasqflow"
-          }
-        },
-        "review_KUTGUj": {
-          "type": "review",
-          "settings": {
-            "title": "Heart health",
-            "description": "<p>This product was exactly what I was looking for in a supplement. Although I’ve been only using this for a short while, I feel great using this product.</p>",
-            "person": "Jack, USA",
-            "product": "vasqflow"
-          }
-        },
-        "review_NmNeiT": {
-          "type": "review",
-          "settings": {
-            "title": "GG Pure with Statin",
-            "description": "<p>I decided to take GG Pure and ubiquinol since I am on a statin. I have had no muscle aches or any other side effects at all. I highly recommend it.</p>",
-            "person": "Mary, USA",
-            "product": "gg-pure"
+            "button_label": "Register Now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "review_dXy8WH",
-        "review_HzjgFA",
-        "review_6xy4xw",
-        "review_KcRaMj",
-        "review_HmjwX3",
-        "review_96pb83",
-        "review_KUTGUj",
-        "review_NmNeiT"
+        "heading_KD7tLz",
+        "text_9r8URh",
+        "button_hbgNqU"
       ],
-      "custom_css": [
-        "h2 {color: #1f1946;}",
-        ".ts-btn svg path {fill: #1f1946;}"
-      ],
-      "name": "Reviews Slider",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "heading": "Real customers, real results.",
-        "bg_color": "#dbeeff",
-        "show_stars": true,
-        "star_count": 5,
-        "shop_cta": "Shop now",
-        "padding_top": 60,
-        "padding_bottom": 100,
-        "show_arrows": true,
-        "gap": 20,
-        "speed": 500,
-        "autoplay": false,
-        "autoplay_delay": 4000
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "anchor_id": "",
+        "anchor_offset": 120,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_with_text_3jd3Fg": {
@@ -290,15 +231,15 @@
         "heading_HLeMWQ": {
           "type": "heading",
           "settings": {
-            "heading": "Why is Heart Health so Important?",
+            "heading": "What We'll Cover",
             "heading_size": "h2"
           }
         },
         "collapsible_row_eJMy84": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Risks are high",
-            "row_content": "<p>A strong heart with a healthy cardiovascular system is vital to our livelihood. Heart disease is the leading cause of death worldwide, which causes 1 out of every 4 deaths in the US. Statistics from the Heart Health Foundation show that cardiovascular diseases affect nearly half of American adults.</p>",
+            "heading": "Movement & Exercise",
+            "row_content": "<p>Cardio vs strength training. What the evidence says, why both matter, and how to make the most of just 30 minutes a day.</p>",
             "page": "",
             "open": true
           }
@@ -306,17 +247,8 @@
         "collapsible_row_E3dGpt": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Symptoms might be hidden",
-            "row_content": "<p>Although cardiovascular diseases can be life-threatening, some symptoms are \"silent\". Risk factors such as arterial calcification, high blood sugar or pressure, or even just \"feeling tired\" can easily go unnoticed, which is why you need to take preventative action.</p>",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_row_mNwhUk": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Heart Health and Men",
-            "row_content": "<p>Men often have a higher risk of developing cardiovascular diseases (CVD), including coronary artery disease, heart attack, stroke, and heart failure, at a younger age compared to women, this is due to various biological, hormonal, lifestyle, and behavioral factors. Men may engage in specific lifestyle behaviors that increase their risk of CAD, such as higher rates of tobacco use, excessive alcohol consumption, unhealthy dietary habits, and inadequate physical activity. These modifiable risk factors can accelerate the development of CAD and contribute to its onset at a younger age.</p>",
+            "heading": "Recovery & Resilience",
+            "row_content": "<p>Cold plunges or saunas - which is better for your heart? Who benefits most, and are there people who should avoid them?</p>",
             "page": "",
             "open": false
           }
@@ -324,8 +256,17 @@
         "collapsible_row_hD4rk6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Heart Health and Women",
-            "row_content": "<p>Cardiovascular health is also critical for women. Although the higher estrogen hormone in women has been associated with some protective cardiovascular effects, however after menopause, when estrogen levels decline, women's risk of cardiovascular diseases may increase dramatically. Additionally, CVD risk in women can be under-recognized because women may experience atypical symptoms of CVD compared to men. These subtler or more diverse symptoms may not always be immediately recognized as signs of heart disease. Hence, understanding heart health risk factors and taking preventive care is vital for women.</p>",
+            "heading": "Food & Nutrition",
+            "row_content": "<p>What to eat more of, what to cut back on, and the one practical dietary change that could make the biggest difference to your heart.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_row_mNwhUk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Supplements & Nutrients",
+            "row_content": "<p>What the COSMOS trial revealed about multivitamins and cellular ageing and how comprehensive nutrient support goes beyond a daily pill.</p>",
             "page": "",
             "open": false
           }
@@ -335,8 +276,8 @@
         "heading_HLeMWQ",
         "collapsible_row_eJMy84",
         "collapsible_row_E3dGpt",
-        "collapsible_row_mNwhUk",
-        "collapsible_row_hD4rk6"
+        "collapsible_row_hD4rk6",
+        "collapsible_row_mNwhUk"
       ],
       "custom_css": [
         ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
@@ -362,6 +303,66 @@
         "color_scheme": "scheme-4",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn_fKhNGN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_facdTF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dr-Joel-Kahn_ff3e1554-22c5-4415-bddb-1dde712d9d5c.png",
+            "title": "Dr. Joel Kahn",
+            "text": "<p><em>Integrative Cardiologist & Clinical Professor, America's Healthy Heart Doctor</em><br/><br/>Dr. Joel Kahn is one of the world's leading integrative cardiologists. A Clinical Professor of Medicine at Wayne State University School of Medicine, he has spent more than 40 years in practice combining conventional cardiology with evidence-based lifestyle medicine.<br/><br/>A bestselling author, sought-after speaker, and passionate advocate for preventive heart health, Dr. Kahn brings the rare combination of clinical rigor and real-world practicality to every conversation.</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        },
+        "column_HD9zER": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Amanda.png",
+            "title": "Dr. Amanda Wiggins",
+            "text": "<p><em>Lead Scientist, Xtendlife</em><br/><br/>Dr. Amanda Wiggins is the Lead Scientist at Xtendlife, where she applies her deep expertise in nutrition science and human physiology to the development and research behind Xtendlife's product range.<br/><br/>With a career spanning academic research and applied health science, Amanda bridges the gap between the latest nutritional science and the supplements people actually use, cutting through hype to focus on what the evidence really supports.</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        },
+        "column_JaTNXk": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_facdTF",
+        "column_HD9zER",
+        "column_JaTNXk"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Meet Your Experts",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_EapeUP": {
@@ -426,6 +427,7 @@
       "block_order": [
         "heading_RGRz3y"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -484,6 +486,7 @@
         "image_Qw9PXi",
         "image_nxEX3U"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 750px) {.image-scroll-wrapper {animation: none !important; justify-content: space-evenly; align-items: center; }}",
         "@media (max-width: 749px) {.image-scroll-wrapper {gap: 4rem; }}"
@@ -573,6 +576,7 @@
         "collapsible_row_HfKygV",
         "button_CdnLhT"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__media {border-radius: 10px !important;}",
         "h2 {font-size: 48px; line-height: 1.1; max-width: 300px;}",
@@ -672,6 +676,7 @@
         "collapsible_row_LKKWzb",
         "button_7xtrmP"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__media {border-radius: 10px !important;}",
         "h2 {font-size: 48px; line-height: 1.1; max-width: 300px;}",
@@ -764,6 +769,7 @@
         "column_7chcQR",
         "column_tQCBEQ"
       ],
+      "disabled": true,
       "name": "Comparison Chart",
       "settings": {
         "heading": "Which Heart Suppplement is Right for Me?",
@@ -936,6 +942,113 @@
         "padding_bottom": 80
       }
     },
+    "reviews_slider_EnTCee": {
+      "type": "reviews-slider",
+      "blocks": {
+        "review_dXy8WH": {
+          "type": "review",
+          "settings": {
+            "title": "Heart Health Support",
+            "description": "<p>This is my go-to supplement for science-proven heart health support.</p>",
+            "person": "Brian, USA",
+            "product": "cx8-heart-health-support"
+          }
+        },
+        "review_HzjgFA": {
+          "type": "review",
+          "settings": {
+            "title": "Heart in Good Condition",
+            "description": "<p>It has been great for me. After 2 artery operations. Both surgeons said my heart was in very good condition.</p>",
+            "person": "Alex, USA",
+            "product": "cx8-heart-health-support"
+          }
+        },
+        "review_6xy4xw": {
+          "type": "review",
+          "settings": {
+            "title": "Take this if you take statins",
+            "description": "<p>I am glad to take this product to offset possible side effects of low co q10 due to statins. Highly recommend this product!</p>",
+            "person": "Peggy, USA",
+            "product": "gg-pure"
+          }
+        },
+        "review_KcRaMj": {
+          "type": "review",
+          "settings": {
+            "title": "CX8-Cardio Support",
+            "description": "<p>Unbelievable I really feel a difference.</p>",
+            "person": "Sandra, USA",
+            "product": "cx8-heart-health-support"
+          }
+        },
+        "review_HmjwX3": {
+          "type": "review",
+          "settings": {
+            "title": "Great results",
+            "description": "<p>I’ve only been using the CX8 for a couple of months now and I’ve seen improvements to my health!</p>",
+            "person": "Aaron, USA",
+            "product": "cx8-heart-health-support"
+          }
+        },
+        "review_96pb83": {
+          "type": "review",
+          "settings": {
+            "title": "Incredible for Blood Flow",
+            "description": "<p>It has helped me significantly with blood flow issues. </p>",
+            "person": "John, USA",
+            "product": "vasqflow"
+          }
+        },
+        "review_KUTGUj": {
+          "type": "review",
+          "settings": {
+            "title": "Heart health",
+            "description": "<p>This product was exactly what I was looking for in a supplement. Although I’ve been only using this for a short while, I feel great using this product.</p>",
+            "person": "Jack, USA",
+            "product": "vasqflow"
+          }
+        },
+        "review_NmNeiT": {
+          "type": "review",
+          "settings": {
+            "title": "GG Pure with Statin",
+            "description": "<p>I decided to take GG Pure and ubiquinol since I am on a statin. I have had no muscle aches or any other side effects at all. I highly recommend it.</p>",
+            "person": "Mary, USA",
+            "product": "gg-pure"
+          }
+        }
+      },
+      "block_order": [
+        "review_dXy8WH",
+        "review_HzjgFA",
+        "review_6xy4xw",
+        "review_KcRaMj",
+        "review_HmjwX3",
+        "review_96pb83",
+        "review_KUTGUj",
+        "review_NmNeiT"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {color: #1f1946;}",
+        ".ts-btn svg path {fill: #1f1946;}"
+      ],
+      "name": "Reviews Slider",
+      "settings": {
+        "heading": "Real customers, real results.",
+        "bg_color": "#dbeeff",
+        "show_stars": true,
+        "star_count": 5,
+        "shop_cta": "Shop now",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "show_arrows": true,
+        "gap": 20,
+        "speed": 500,
+        "autoplay": false,
+        "autoplay_delay": 4000
+      }
+    },
     "newsletter_qKtmmH": {
       "type": "newsletter",
       "blocks": {
@@ -1028,8 +1141,9 @@
     "image_banner_pFjbBG",
     "multicolumn_A6pqFF",
     "featured_collection_tab_grid_Ddm4Df",
-    "reviews_slider_EnTCee",
+    "rich_text_AyjiXB",
     "image_with_text_3jd3Fg",
+    "multicolumn_fKhNGN",
     "image_with_text_EapeUP",
     "rich_text_YewMnP",
     "image_infinite_scroll_6YVr3i",
@@ -1039,6 +1153,7 @@
     "custom_liquid_Pzcygx",
     "mixed_media_slider_z44q96",
     "video_slider_QxaRdC",
+    "reviews_slider_EnTCee",
     "newsletter_qKtmmH",
     "image_banner_eNjqNN"
   ]
