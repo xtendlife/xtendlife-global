@@ -82,8 +82,8 @@
         "column_dPkBXE": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Thurs 28 May, 7PM EST</p>",
+            "title": "Thurs 28 May, 7PM EST",
+            "text": "",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -92,8 +92,8 @@
         "column_84WnVg": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Approx. 60 Minutes</p>",
+            "title": "Approx. 60 Minutes",
+            "text": "",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -102,8 +102,8 @@
         "column_bqhLTR": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Online - Free to attend</p>",
+            "title": "Online - Free to attend",
+            "text": "",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -125,16 +125,16 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Details",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
@@ -186,7 +186,7 @@
         "heading_KD7tLz": {
           "type": "heading",
           "settings": {
-            "heading": "Practical Heart Health Tips. No Fluff.",
+            "heading": "Expert Insights You Can Trust.",
             "heading_size": "h1"
           }
         },
