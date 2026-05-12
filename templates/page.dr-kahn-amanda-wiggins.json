@@ -82,8 +82,8 @@
         "column_dPkBXE": {
           "type": "column",
           "settings": {
-            "title": "Thurs 28 May, 7PM EST",
-            "text": "",
+            "title": "",
+            "text": "<p>Thurs 28 May, 7PM EST  </p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -92,8 +92,8 @@
         "column_84WnVg": {
           "type": "column",
           "settings": {
-            "title": "Approx. 60 Minutes",
-            "text": "",
+            "title": "",
+            "text": "<p>Approx. 60 Minutes</p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -102,8 +102,8 @@
         "column_bqhLTR": {
           "type": "column",
           "settings": {
-            "title": "Online - Free to attend",
-            "text": "",
+            "title": "",
+            "text": "<p>Online - Free to attend</p>",
             "link_label": "",
             "link": "",
             "video_url": ""
@@ -131,7 +131,7 @@
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "color_scheme": "scheme-1",
@@ -279,6 +279,7 @@
         "collapsible_row_hD4rk6",
         "collapsible_row_mNwhUk"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
         ".image-with-text__heading {margin-bottom: 6rem;}",
@@ -303,6 +304,57 @@
         "color_scheme": "scheme-4",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_with_text_rW8QFe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ifJi7k": {
+          "type": "heading",
+          "settings": {
+            "heading": "What We'll Cover",
+            "heading_size": "h1"
+          }
+        },
+        "text_JKCzhV": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Movement & Exercise</strong></h3><p>Cardio vs strength training. What the evidence says, why both matter, and how to make the most of just 30 minutes a day.</p><h3><br/><strong>Recovery & Resilience</strong></h3><p>Cold plunges vs saunas - which is better for your heart? Who benefits most, and are there people who should avoid them?</p><h3><br/><strong>Food & Nutrition</strong></h3><p>What to eat more of, what to cut back on, and the one practical dietary change that could make the biggest difference to your heart.</p><h3><br/><strong>Supplements & Nutrients</strong></h3><p>What the COSMOS trial revealed about multivitamins and cellular ageing as well as how comprehensive nutrient support goes beyond a daily pill.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_KiJBJc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ifJi7k",
+        "text_JKCzhV",
+        "button_KiJBJc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/iStock-1178343665_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "image_bleed": false,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_fKhNGN": {
@@ -836,6 +888,7 @@
         },
         "ebook_slide_H7afHL": {
           "type": "ebook_slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/The-Age-of-your-heart-2026_eBook-Thumb_410x574_6f4f3194-925d-4d34-bdcd-bc83cc5941aa.png",
             "pdf_url": "https://cdn.shopify.com/s/files/1/1267/0135/files/The_Age_of_Your_Heart_2026_FA.pdf?v=1771545566",
@@ -846,6 +899,7 @@
         },
         "ebook_slide_ggweKc": {
           "type": "ebook_slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Staying-Young-at-Heart_2026_eBook-Thumb_410x574_ddd67ea4-ccb8-4ed4-8e32-8190fb22101b.png",
             "pdf_url": "https://cdn.shopify.com/s/files/1/1267/0135/files/Staying_Young_at_Heart_eBook_2026_FA.pdf?v=1771545569",
@@ -856,6 +910,7 @@
         },
         "ebook_slide_hxnBkc": {
           "type": "ebook_slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/The-Discovery-of-GG_2026_Thumb_410x574_d050a620-a457-4608-9ba1-499553f9b434.png",
             "pdf_url": "https://cdn.shopify.com/s/files/1/1267/0135/files/The_Groundbreaking_Discovery_of_GG_2026_FA.pdf?v=1771545567",
@@ -875,7 +930,7 @@
       ],
       "name": "Mixed media slider",
       "settings": {
-        "heading": "Explore Free Heart Health Guides & Videos",
+        "heading": "Explore Free Heart Health Videos",
         "bg_color": "#ffffff",
         "tab_video_label": "Videos",
         "tab_ebook_label": "E-books",
@@ -1143,6 +1198,7 @@
     "featured_collection_tab_grid_Ddm4Df",
     "rich_text_AyjiXB",
     "image_with_text_3jd3Fg",
+    "image_with_text_rW8QFe",
     "multicolumn_fKhNGN",
     "image_with_text_EapeUP",
     "rich_text_YewMnP",
