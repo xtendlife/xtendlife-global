@@ -58,9 +58,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Heart_Health_Desktop_62d1d6c0-d4d8-42f9-8afd-1b5f57be4282.png",
-        "image_tablet": "shopify://shop_images/Heart_Healt_iPad_3_3ebc421c-00f3-46d2-8e73-1f1bfb8b16b3.png",
-        "image_mobile": "shopify://shop_images/Heart_Health_Mobile_3_12ad2144-c342-4f0f-b0cd-3f5e16d8119f.png",
+        "image": "shopify://shop_images/XL_Webinar_Landing_Page_Desktop_2000x750_066a9662-fe65-4f47-8320-773a3158c9a1.jpg",
+        "image_tablet": "shopify://shop_images/XL_Webinar_Landing_Page_Tablet_950x750_71bb9702-59d2-4645-88cf-d6970dd964d9.jpg",
+        "image_mobile": "shopify://shop_images/XL_Webinar_Landing_Page_Mobile_488x323_3b46d87e-00d4-418f-9500-0507db8f8ace.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "wide_container": true,
@@ -81,6 +81,7 @@
         "column_dPkBXE": {
           "type": "column",
           "settings": {
+            "icon": "shopify://shop_images/Calendar.svg",
             "title": "",
             "text": "<p>Thurs 28 May, 7PM EST  </p>",
             "link_label": "",
@@ -91,6 +92,7 @@
         "column_84WnVg": {
           "type": "column",
           "settings": {
+            "icon": "shopify://shop_images/Clock.svg",
             "title": "",
             "text": "<p>Approx. 60 Minutes</p>",
             "link_label": "",
@@ -101,6 +103,7 @@
         "column_bqhLTR": {
           "type": "column",
           "settings": {
+            "icon": "shopify://shop_images/Desktop.svg",
             "title": "",
             "text": "<p>Online - Free to attend</p>",
             "link_label": "",
@@ -362,7 +365,7 @@
         "column_facdTF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Dr-Joel-Kahn_ff3e1554-22c5-4415-bddb-1dde712d9d5c.png",
+            "image": "shopify://shop_images/XL_Webinar_Dr_Kahn_1000x1000_f32d05bc-6120-4454-817f-fb5ade11842f.png",
             "title": "Dr. Joel Kahn",
             "text": "<p><em>Integrative Cardiologist & Clinical Professor, America's Healthy Heart Doctor</em><br/><br/>Dr. Joel Kahn is one of the world's leading integrative cardiologists. A Clinical Professor of Medicine at Wayne State University School of Medicine, he has spent more than 40 years in practice combining conventional cardiology with evidence-based lifestyle medicine.<br/><br/>A bestselling author, sought-after speaker, and passionate advocate for preventive heart health, Dr. Kahn brings the rare combination of clinical rigor and real-world practicality to every conversation.</p>",
             "link_label": "",
@@ -373,7 +376,7 @@
         "column_HD9zER": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Amanda.png",
+            "image": "shopify://shop_images/XL_Webinar_Dr_Wiggins_1000x1000_f73839fa-e9d9-4998-869e-c4687d3f9585.png",
             "title": "Dr. Amanda Wiggins",
             "text": "<p><em>Lead Scientist, Xtendlife</em><br/><br/>Dr. Amanda Wiggins is the Lead Scientist at Xtendlife, where she applies her deep expertise in nutrition science and human physiology to the development and research behind Xtendlife's product range.<br/><br/>With a career spanning academic research and applied health science, Amanda bridges the gap between the latest nutritional science and the supplements people actually use, cutting through hype to focus on what the evidence really supports.</p>",
             "link_label": "",
