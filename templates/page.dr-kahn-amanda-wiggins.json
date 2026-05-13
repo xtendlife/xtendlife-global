@@ -202,7 +202,7 @@
           "type": "button",
           "settings": {
             "button_label": "Register Now",
-            "button_link": "shopify://collections/all",
+            "button_link": "https://us06web.zoom.us/webinar/register/WN_dUG6nI24S1WLtuiYHK0pQw#/registration",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
