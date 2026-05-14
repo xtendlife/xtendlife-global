@@ -23,7 +23,7 @@
         "buttons_JR9Vpa": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "RECOMMENDED BY DR. JOEL KHAN",
+            "button_label_1": "Exclusive Partnership",
             "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -34,14 +34,14 @@
         "heading_4P8W9w": {
           "type": "heading",
           "settings": {
-            "heading": "Nutrition For Your Heart",
+            "heading": "Ben Greenfield & Xtendlife",
             "heading_size": "h1"
           }
         },
         "text_FxFrdN": {
           "type": "text",
           "settings": {
-            "text": "Trusted by experts, our heart health formulas combine clinically studied ingredients to support circulation, cholesterol balance, and overall cardiovascular wellness - helping you stay strong at heart.",
+            "text": "Ben Greenfield and Xtendlife, partners since 2023. Bringing you targeted formulas for the way you live.",
             "text_style": "subtitle"
           }
         }
@@ -143,8 +143,26 @@
         "padding_bottom": 28
       }
     },
+    "featured_product_slider_4CnHYf": {
+      "type": "featured-product-slider",
+      "name": "Featured product slider",
+      "settings": {
+        "heading": "Ben's Pick",
+        "collection": "ben-greenfield-2026",
+        "limit": 1,
+        "view_details_label": "View full details",
+        "show_arrows": false,
+        "gap": 24,
+        "speed": 500,
+        "autoplay": false,
+        "autoplay_delay": 4000,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
     "featured_collection_tab_grid_Ddm4Df": {
       "type": "featured-collection-tab-grid",
+      "disabled": true,
       "custom_css": [
         ".collection__title_inline {border-top: 1px solid; border-color: rgba(31, 25, 71, 0.3); padding-top: 2rem;}"
       ],
@@ -429,6 +447,7 @@
       "block_order": [
         "heading_RGRz3y"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -487,6 +506,7 @@
         "image_Qw9PXi",
         "image_nxEX3U"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 750px) {.image-scroll-wrapper {animation: none !important; justify-content: space-evenly; align-items: center; }}",
         "@media (max-width: 749px) {.image-scroll-wrapper {gap: 4rem; }}"
@@ -1030,6 +1050,7 @@
     "main",
     "image_banner_pFjbBG",
     "multicolumn_A6pqFF",
+    "featured_product_slider_4CnHYf",
     "featured_collection_tab_grid_Ddm4Df",
     "reviews_slider_EnTCee",
     "image_with_text_3jd3Fg",
