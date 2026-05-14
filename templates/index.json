@@ -48,7 +48,7 @@
           "settings": {
             "image": "shopify://shop_images/XL_Webinar_HP_LAND_Desk_1920x685_1.jpg",
             "image_tablet": "shopify://shop_images/XL_Webinar_HP_LAND_Tablet_1500x1377__2.jpg",
-            "image_mobile": "shopify://shop_images/XL_Webinar_Landing_Page_Mobile_488x323_3b46d87e-00d4-418f-9500-0507db8f8ace.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_Webinar_HP_LAND_Mob-INLINE_448x323_e628a39c-5b3c-4e39-b4d6-6e848d061f9e.jpg",
             "mobile_inline_bg": "#ffffff",
             "video_mp4": "",
             "video_adapt_ratio": 30,
