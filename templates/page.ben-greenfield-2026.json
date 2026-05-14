@@ -143,21 +143,130 @@
         "padding_bottom": 28
       }
     },
-    "featured_product_slider_4CnHYf": {
-      "type": "featured-product-slider",
-      "name": "Featured product slider",
+    "rich_text_iBaqeP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tKJHNH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ben's Pick",
+            "heading_size": "h1"
+          }
+        },
+        "text_FUz3g6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_cTU7eJ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tKJHNH",
+        "text_FUz3g6",
+        "button_cTU7eJ"
+      ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "heading": "Ben's Pick",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "anchor_id": "",
+        "anchor_offset": 120,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_yKLHHB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_EDDn49": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tocotrienols Vitamin E",
+            "heading_size": "h1"
+          }
+        },
+        "text_JJWpy3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most people associate vitamin E with tocopherols, the form found in food and most multivitamins. But tocotrienols are a rarer, more bioavailable form with antioxidant potency 60 times greater. Our formula is 100% derived from the annatto plant, entirely free of tocopherols so nothing interferes with their effectiveness. Backed by decades of research from Dr. Barrie Tan, the pioneering scientist behind DeltaGold® tocotrienols.</p><ul><li>Powerful cellular antioxidant protection</li><li>Cardiovascular health support</li><li>Brain and cognitive function</li><li>Bone density and metabolic health</li><li>Supports healthy ageing at a cellular level</li><li>100% annatto-derived, free of tocopherol interference</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_RCr9ED": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/tocotrienols-vitamin-e",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EDDn49",
+        "text_JJWpy3",
+        "button_RCr9ED"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Tocotrienols-Vitamin-E_125_1603_6b4804f7-8ccb-4347-91e3-706ab6c23d3d.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "image_bleed": false,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_kgQUGC": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
         "collection": "ben-greenfield-2026",
-        "limit": 1,
-        "view_details_label": "View full details",
-        "show_arrows": false,
-        "gap": 24,
-        "speed": 500,
-        "autoplay": false,
-        "autoplay_delay": 4000,
-        "padding_top": 48,
-        "padding_bottom": 48
+        "products_to_show": 4,
+        "title": "Ben's Picks",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection_tab_grid_Ddm4Df": {
@@ -1050,7 +1159,9 @@
     "main",
     "image_banner_pFjbBG",
     "multicolumn_A6pqFF",
-    "featured_product_slider_4CnHYf",
+    "rich_text_iBaqeP",
+    "image_with_text_yKLHHB",
+    "featured_collection_kgQUGC",
     "featured_collection_tab_grid_Ddm4Df",
     "reviews_slider_EnTCee",
     "image_with_text_3jd3Fg",
