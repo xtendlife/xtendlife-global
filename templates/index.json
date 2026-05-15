@@ -23,7 +23,7 @@
             "video_adapt_ratio": 30,
             "text_color": "#ffffff",
             "text_color_mobile": "#1f1946",
-            "heading": "Heart Health<br>Webinar",
+            "heading": "Heart HealthWebinar",
             "heading_size": "h1",
             "heading_max_width": 500,
             "text": "Join Dr Joel Kahn and Dr Amanda Wiggins for practical advice you can stick to.",
@@ -353,7 +353,7 @@
         "stack_text_on_mobile": false,
         "autoplay": true,
         "autoplay_delay": 4000,
-        "loop": false,
+        "loop": true,
         "speed": 700
       }
     },
