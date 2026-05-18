@@ -38,7 +38,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Register Now",
-            "button_link_1": "",
+            "button_link_1": "https://us06web.zoom.us/webinar/register/WN_dUG6nI24S1WLtuiYHK0pQw#/registration",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
