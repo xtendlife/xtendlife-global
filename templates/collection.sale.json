@@ -32,10 +32,10 @@
             "video_adapt_ratio": 100,
             "text_color": "#1f1946",
             "text_color_mobile": "#f4f8fb",
-            "heading": "The Mother's Day Gift Guide",
+            "heading": "Memorial Day Sale",
             "heading_size": "h1",
             "heading_max_width": 500,
-            "text": "Find the right wellness gift for every type of mom.",
+            "text": "Save 20% on bundles with code MEMORIAL20",
             "text_style": "body",
             "subtitle_font_size_desktop": 24,
             "subtitle_font_size_mobile": 18,
@@ -80,6 +80,7 @@
       "blocks": {
         "tab_HArBQh": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "label": "Gifts for Mom",
             "collection": "mothers-day",
@@ -97,7 +98,6 @@
         },
         "tab_hNQHfA": {
           "type": "tab",
-          "disabled": true,
           "settings": {
             "label": "Bundles",
             "collection": "all-bundles",
@@ -139,7 +139,7 @@
       ],
       "name": "Promo Collection Tabs",
       "settings": {
-        "title": "A little something for the one who does everything.",
+        "title": "Build your wellness stack.",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
