@@ -31,7 +31,7 @@
             "video_mp4": "",
             "video_adapt_ratio": 100,
             "text_color": "#1f1946",
-            "text_color_mobile": "#f4f8fb",
+            "text_color_mobile": "#1f1946",
             "heading": "Memorial Day Sale",
             "heading_size": "h1",
             "heading_max_width": 500,
