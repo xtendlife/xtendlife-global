@@ -75,6 +75,7 @@
         },
         "slide_piLzVx": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Memorial_Day_LAND_Desk_2000x750_4581d360-4fb1-4449-86da-c4a2a9418321.jpg",
             "image_tablet": "shopify://shop_images/XL_Memorial_Day_HP_LAND_Tablet_1500x1377_a7536198-9320-4cd7-be3c-c7efaf034cdc.jpg",
