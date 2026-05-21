@@ -12,6 +12,36 @@
     "media_hero_slider_VC34DA": {
       "type": "media-hero-slider",
       "blocks": {
+        "slide_piLzVx": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/XL_Mother_s_Day_HP_LAND_Desk_1920x685_copy.jpg",
+            "image_tablet": "shopify://shop_images/XL_Memorial_Day_HP_LAND_Tablet_1500x1377_a7536198-9320-4cd7-be3c-c7efaf034cdc.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_Memorial_Day_HP_LAND_Mob-INLINE_448x323_e8585d67-decf-43c4-9254-729b80a121af.jpg",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 57,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Memorial Day<br>Sale",
+            "heading_size": "h1",
+            "heading_max_width": 600,
+            "text": "20% off all bundles with code MEMORIAL20",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 350,
+            "small_text": "",
+            "small_text_font_size_desktop": 12,
+            "small_text_font_size_mobile": 10,
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/sale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "slide_fyNhkn": {
           "type": "slide",
           "settings": {
@@ -67,37 +97,6 @@
             "small_text_font_size_mobile": 9,
             "button_label_1": "Shop now",
             "button_link_1": "shopify://collections/total-balance-range",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "slide_piLzVx": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/XL_Memorial_Day_LAND_Desk_2000x750_4581d360-4fb1-4449-86da-c4a2a9418321.jpg",
-            "image_tablet": "shopify://shop_images/XL_Memorial_Day_HP_LAND_Tablet_1500x1377_a7536198-9320-4cd7-be3c-c7efaf034cdc.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_Memorial_Day_HP_LAND_Mob-INLINE_448x323_e8585d67-decf-43c4-9254-729b80a121af.jpg",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 57,
-            "text_color": "#1f1946",
-            "text_color_mobile": "#1f1946",
-            "heading": "Memorial Day Sale",
-            "heading_size": "h1",
-            "heading_max_width": 600,
-            "text": "20% off all bundles with code MEMORIAL20",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 350,
-            "small_text": "",
-            "small_text_font_size_desktop": 12,
-            "small_text_font_size_mobile": 10,
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify://collections/sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -327,9 +326,9 @@
         }
       },
       "block_order": [
+        "slide_piLzVx",
         "slide_fyNhkn",
         "slide_jdHtG6",
-        "slide_piLzVx",
         "slide_hwDDwj",
         "slide_DXH6Lj",
         "slide_BHzj6J",
