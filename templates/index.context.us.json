@@ -12,5 +12,15 @@
     "market": "us"
   },
   "parent": "index.json",
-  "sections": {}
+  "sections": {
+    "media_hero_slider_VC34DA": {
+      "settings": {},
+      "blocks": {
+        "slide_piLzVx": {
+          "disabled": false,
+          "settings": {}
+        }
+      }
+    }
+  }
 }
