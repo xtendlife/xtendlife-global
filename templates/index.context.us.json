@@ -14,13 +14,26 @@
   "parent": "index.json",
   "sections": {
     "media_hero_slider_VC34DA": {
+      "disabled": false,
       "settings": {},
       "blocks": {
         "slide_piLzVx": {
-          "disabled": false,
+          "disabled": true,
           "settings": {}
         }
-      }
+      },
+      "block_order": [
+        "slide_fyNhkn",
+        "slide_jdHtG6",
+        "slide_piLzVx",
+        "slide_hwDDwj",
+        "slide_DXH6Lj",
+        "slide_BHzj6J",
+        "slide_Mdp9gj",
+        "slide_Bwck6W",
+        "slide_GVyYhd",
+        "slide_4TWen8"
+      ]
     }
   }
 }
