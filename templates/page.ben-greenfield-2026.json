@@ -533,6 +533,7 @@
         "column_Q8KDjr",
         "column_fBPCc3"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "The Xtendlife Standard",
