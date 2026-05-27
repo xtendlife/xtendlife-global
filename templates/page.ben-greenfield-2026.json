@@ -150,7 +150,7 @@
         "caption_KLVPPU": {
           "type": "caption",
           "settings": {
-            "caption": "Special offer: Get 15% off all products when you use code BEN15",
+            "caption": "Get 15% off all products when you use code BEN15",
             "text_style": "subtitle",
             "text_size": "medium"
           }
