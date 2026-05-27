@@ -117,6 +117,7 @@
         "column_84WnVg",
         "column_bqhLTR"
       ],
+      "disabled": true,
       "custom_css": [
         ".grid {gap: 0; justify-content: flex-start;}",
         ".multicolumn-card__info {display: flex;}",
@@ -141,6 +142,103 @@
         "swipe_on_mobile": true,
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "rich_text_yCnXEF": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_KLVPPU": {
+          "type": "caption",
+          "settings": {
+            "caption": "Special offer: Get 15% off all products when you use code BEN15",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "caption_KLVPPU"
+      ],
+      "custom_css": [
+        ".page-width {margin-bottom: 6rem;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "anchor_id": "",
+        "anchor_offset": 120,
+        "padding_top": 28,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_WejhcJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_U6MxPN": {
+          "type": "column",
+          "settings": {
+            "icon": "shopify://shop_images/Icon.svg",
+            "title": "",
+            "text": "<p>Trusted Brand for over 27 years</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        },
+        "column_FnPz33": {
+          "type": "column",
+          "settings": {
+            "icon": "shopify://shop_images/Icon_1.svg",
+            "title": "",
+            "text": "<p>Proudly made in New Zealand</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        },
+        "column_GePt6J": {
+          "type": "column",
+          "settings": {
+            "icon": "shopify://shop_images/Icon_2.svg",
+            "title": "",
+            "text": "<p>365 Days Guaranteed</p>",
+            "link_label": "",
+            "link": "",
+            "video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_U6MxPN",
+        "column_FnPz33",
+        "column_GePt6J"
+      ],
+      "custom_css": [
+        ".grid {gap: 0; justify-content: center;}",
+        ".multicolumn-card__info {display: flex; justify-content: center; padding-bottom: 0;}",
+        "p {font-size: 14px; line-height: 1;}",
+        "@media (min-width: 750px) {.grid li:not(:last-child) {border-right: 1px solid; }}",
+        "@media (max-width: 749px) {p {font-size: 10px; } img {height: 12px; } .grid {justify-content: start; } .multicolumn-card__info {justify-content: flex-start; } .grid__item {width: 50% !important; }}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-c386b73c-3983-4df4-a2f1-d5aa15164370",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "rich_text_jijbp6": {
@@ -1309,6 +1407,8 @@
     "main",
     "image_banner_pFjbBG",
     "multicolumn_A6pqFF",
+    "rich_text_yCnXEF",
+    "multicolumn_WejhcJ",
     "rich_text_jijbp6",
     "rich_text_iBaqeP",
     "image_with_text_yKLHHB",
