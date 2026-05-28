@@ -423,6 +423,63 @@
         "padding_bottom": 80
       }
     },
+    "image_with_text_YAamij": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dLJVPb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vitamin E, But Better.",
+            "heading_size": "h2"
+          }
+        },
+        "text_E84X8D": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pure DeltaGold® tocotrienols: for heart, cholesterol, bone and metabolic health.</p>",
+            "text_style": "body"
+          }
+        },
+        "collapsible_row_RbNYz3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cellular Protection",
+            "row_content": "<p>Tocotrienols are the most potent form of vitamin E, offering antioxidant protection to safeguard cell membranes, support healthy cells and DNA, and maintain optimal organ function.</p>",
+            "page": "",
+            "open": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_dLJVPb",
+        "text_E84X8D",
+        "collapsible_row_RbNYz3"
+      ],
+      "custom_css": [
+        ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
+        ".image-with-text__heading {margin-bottom: 6rem;}",
+        ".accordion summary .icon-plus {border: 1px solid; border-radius: 50%; padding: 0.4rem; width: 2.4rem; height: 2.4rem; top: calc(50% - 10px);}",
+        "@media (min-width: 750px) {.accordion__content.rte p {font-size: 2rem; line-height: 1.5; } .accordion__title {font-size: 3.6rem; }}",
+        "@media (max-width: 749px) {.image-with-text__content {padding: 2rem 0 4rem; } .accordion__title {font-size: 2rem; }}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "image_bleed": true,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-4",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_Hf4mPq": {
       "type": "image-with-text",
       "blocks": {
@@ -638,6 +695,7 @@
         "review_KUTGUj",
         "review_NmNeiT"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {color: #1f1946;}",
         ".ts-btn svg path {fill: #1f1946;}"
@@ -1414,6 +1472,7 @@
     "rich_text_iBaqeP",
     "image_with_text_yKLHHB",
     "featured_collection_tab_grid_Ddm4Df",
+    "image_with_text_YAamij",
     "image_with_text_Hf4mPq",
     "multicolumn_6ADcV9",
     "reviews_slider_EnTCee",
