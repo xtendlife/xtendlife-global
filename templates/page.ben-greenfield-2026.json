@@ -310,8 +310,8 @@
         "full_width": true,
         "anchor_id": "",
         "anchor_offset": 120,
-        "padding_top": 32,
-        "padding_bottom": 12
+        "padding_top": 60,
+        "padding_bottom": 0
       }
     },
     "image_with_text_yKLHHB": {
@@ -365,7 +365,54 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "color_scheme": "",
-        "padding_top": 36,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_EapeUP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cpFMj7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Think You’re Getting Enough Vitamin E?",
+            "heading_size": "h1"
+          }
+        },
+        "text_QNdBXj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most people associate vitamin E with tocopherols, the more common form found in foods and multivitamins, but have you heard of tocotrienols? A more potent and bioavailable form of vitamin E with distinct health benefits, especially for cardiovascular, brain, and metabolic health.<br/><br/>Tocotrienols are significantly more potent antioxidants than tocopherols, helping to protect cells more effectively. However, studies suggest that too much tocopherol may reduce the benefits of tocotrienols, which is why a tocotrienol-only supplement is ideal. DeltaGold® tocotrienols come from the Annatto plant, the purest known source with no tocopherol interference.<br/><br/>Backed by research for many decades, and DeltaGold® tocotrienols is proven to deliver benefits for heart health, bone strength, brain function, and metabolic support.<br/><br/></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cpFMj7",
+        "text_QNdBXj"
+      ],
+      "custom_css": [
+        ".image-with-text__media {border-radius: 10px !important;}",
+        "h2 {font-size: 3.6rem; line-height: 1.15;}",
+        "@media (min-width: 750px) {.image-with-text__content {padding: 6rem 2rem 0 6rem; }}",
+        "@media (max-width: 749px) {.image-with-text__content {padding-top: 2rem; } h2 {font-size: 2.4rem; }}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Tocotrienols_PDP_asset-01.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "image_bleed": false,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 100
       }
     },
@@ -558,8 +605,8 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "multicolumn_6ADcV9": {
@@ -736,135 +783,6 @@
         "speed": 500,
         "autoplay": false,
         "autoplay_delay": 4000
-      }
-    },
-    "image_with_text_3jd3Fg": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HLeMWQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why is Heart Health so Important?",
-            "heading_size": "h2"
-          }
-        },
-        "collapsible_row_eJMy84": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Risks are high",
-            "row_content": "<p>A strong heart with a healthy cardiovascular system is vital to our livelihood. Heart disease is the leading cause of death worldwide, which causes 1 out of every 4 deaths in the US. Statistics from the Heart Health Foundation show that cardiovascular diseases affect nearly half of American adults.</p>",
-            "page": "",
-            "open": true
-          }
-        },
-        "collapsible_row_E3dGpt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Symptoms might be hidden",
-            "row_content": "<p>Although cardiovascular diseases can be life-threatening, some symptoms are \"silent\". Risk factors such as arterial calcification, high blood sugar or pressure, or even just \"feeling tired\" can easily go unnoticed, which is why you need to take preventative action.</p>",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_row_mNwhUk": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Heart Health and Men",
-            "row_content": "<p>Men often have a higher risk of developing cardiovascular diseases (CVD), including coronary artery disease, heart attack, stroke, and heart failure, at a younger age compared to women, this is due to various biological, hormonal, lifestyle, and behavioral factors. Men may engage in specific lifestyle behaviors that increase their risk of CAD, such as higher rates of tobacco use, excessive alcohol consumption, unhealthy dietary habits, and inadequate physical activity. These modifiable risk factors can accelerate the development of CAD and contribute to its onset at a younger age.</p>",
-            "page": "",
-            "open": false
-          }
-        },
-        "collapsible_row_hD4rk6": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Heart Health and Women",
-            "row_content": "<p>Cardiovascular health is also critical for women. Although the higher estrogen hormone in women has been associated with some protective cardiovascular effects, however after menopause, when estrogen levels decline, women's risk of cardiovascular diseases may increase dramatically. Additionally, CVD risk in women can be under-recognized because women may experience atypical symptoms of CVD compared to men. These subtler or more diverse symptoms may not always be immediately recognized as signs of heart disease. Hence, understanding heart health risk factors and taking preventive care is vital for women.</p>",
-            "page": "",
-            "open": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_HLeMWQ",
-        "collapsible_row_eJMy84",
-        "collapsible_row_E3dGpt",
-        "collapsible_row_mNwhUk",
-        "collapsible_row_hD4rk6"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
-        ".image-with-text__heading {margin-bottom: 6rem;}",
-        ".accordion summary .icon-plus {border: 1px solid; border-radius: 50%; padding: 0.4rem; width: 2.4rem; height: 2.4rem; top: calc(50% - 10px);}",
-        "@media (min-width: 750px) {.accordion__content.rte p {font-size: 2rem; line-height: 1.5; } .accordion__title {font-size: 3.6rem; }}",
-        "@media (max-width: 749px) {.image-with-text__content {padding: 2rem 0 4rem; } .accordion__title {font-size: 2rem; }}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/iStock-1166653100.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "image_replacement_text": "",
-        "layout": "text_first",
-        "image_behavior": "none",
-        "image_bleed": true,
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "scheme-4",
-        "color_scheme": "scheme-4",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_EapeUP": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_cpFMj7": {
-          "type": "heading",
-          "settings": {
-            "heading": "How to Support a Heart-Healthy Lifestyle",
-            "heading_size": "h1"
-          }
-        },
-        "text_QNdBXj": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Live a Heart-Healthy Lifestyle</h3><p>Adopting simple, healthy habits can go a long way toward supporting your heart. Regular exercise, a balanced diet focused on whole, unprocessed foods, avoiding smoking, limiting alcohol, and managing stress all play a key role in long-term cardiovascular wellbeing.</p><h3>Support Your Heart as You Age</h3><p>As we get older, our bodies naturally become less efficient at producing and absorbing key nutrients, including omega-3 fatty acids, CoQ10, and vitamin K2, which are important for maintaining heart health and energy.</p><h3>Consider Targeted Supplement Support</h3><p>Supplementation can help fill nutritional gaps and provide key nutrients in the right amounts to support cardiovascular function and overall well-being, especially as your needs change with age.</p><p></p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cpFMj7",
-        "text_QNdBXj"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".image-with-text__media {border-radius: 10px !important;}",
-        "h2 {font-size: 3.6rem; line-height: 1.15;}",
-        "@media (min-width: 750px) {.image-with-text__content {padding: 6rem 2rem 0 6rem; }}",
-        "@media (max-width: 749px) {.image-with-text__content {padding-top: 2rem; } h2 {font-size: 2.4rem; }}"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/iStock-1178343665_2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "image_replacement_text": "",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "image_bleed": false,
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "padding_top": 60,
-        "padding_bottom": 60
       }
     },
     "rich_text_YewMnP": {
@@ -1493,13 +1411,12 @@
     "rich_text_jijbp6",
     "rich_text_iBaqeP",
     "image_with_text_yKLHHB",
+    "image_with_text_EapeUP",
     "featured_collection_tab_grid_Ddm4Df",
     "image_with_text_YAamij",
     "image_with_text_Hf4mPq",
     "multicolumn_6ADcV9",
     "reviews_slider_EnTCee",
-    "image_with_text_3jd3Fg",
-    "image_with_text_EapeUP",
     "rich_text_YewMnP",
     "image_infinite_scroll_6YVr3i",
     "image_with_text_HHyM8a",
