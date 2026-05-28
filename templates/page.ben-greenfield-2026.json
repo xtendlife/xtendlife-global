@@ -442,11 +442,20 @@
             "text": "<p>Most people associate vitamin E with tocopherols, the more common form found in foods and multivitamins, but have you heard of tocotrienols? A more potent and bioavailable form of vitamin E with distinct health benefits, especially for cardiovascular, brain, and metabolic health.<br/><br/>Tocotrienols are significantly more potent antioxidants than tocopherols, helping to protect cells more effectively. However, studies suggest that too much tocopherol may reduce the benefits of tocotrienols, which is why a tocotrienol-only supplement is ideal. DeltaGold® tocotrienols come from the Annatto plant, the purest known source with no tocopherol interference.<br/><br/>Backed by research for many decades, and DeltaGold® tocotrienols is proven to deliver benefits for heart health, bone strength, brain function, and metabolic support.<br/><br/></p>",
             "text_style": "body"
           }
+        },
+        "button_GKYUJG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/tocotrienols-vitamin-e",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_cpFMj7",
-        "text_QNdBXj"
+        "text_QNdBXj",
+        "button_GKYUJG"
       ],
       "custom_css": [
         "@media screen and (min-width: 750px) {.image-with-text__content {justify-content: center; }}",
