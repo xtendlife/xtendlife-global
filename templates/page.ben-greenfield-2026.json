@@ -457,13 +457,33 @@
             "page": "",
             "open": false
           }
+        },
+        "collapsible_row_FaR4Cc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Healthy Aging and Bone Strength",
+            "row_content": "<p>Tocotrienols vitamin E help manage oxidative stress in bone cells, support overall bone health and density, especially in postmenopausal women.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_row_CJb4LU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Brain and Cognitive Wellness",
+            "row_content": "<p>Tocotrienols support brain health by protecting brain cells from oxidative stress, promoting cognitive function, and helping maintain healthy nerve cells.</p>",
+            "page": "",
+            "open": false
+          }
         }
       },
       "block_order": [
         "heading_dLJVPb",
         "text_E84X8D",
         "collapsible_row_RbNYz3",
-        "collapsible_row_HxJC8k"
+        "collapsible_row_HxJC8k",
+        "collapsible_row_FaR4Cc",
+        "collapsible_row_CJb4LU"
       ],
       "custom_css": [
         ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
