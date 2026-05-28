@@ -59,7 +59,7 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Ben_Greenfield_long-2-6.webp",
+        "image": "shopify://shop_images/Ben_Greenfield_long-2-6_v2.png",
         "image_tablet": "shopify://shop_images/Ben_Greenfield_long-2-6.webp",
         "image_mobile": "shopify://shop_images/Ben_Greenfield_long-2-6.webp",
         "image_overlay_opacity": 0,
