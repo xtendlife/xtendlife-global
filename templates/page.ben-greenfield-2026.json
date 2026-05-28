@@ -117,7 +117,6 @@
         "column_84WnVg",
         "column_bqhLTR"
       ],
-      "disabled": true,
       "custom_css": [
         ".grid {gap: 0; justify-content: flex-start;}",
         ".multicolumn-card__info {display: flex;}",
@@ -216,6 +215,7 @@
         "column_FnPz33",
         "column_GePt6J"
       ],
+      "disabled": true,
       "custom_css": [
         ".grid {gap: 0; justify-content: center;}",
         ".multicolumn-card__info {display: flex; justify-content: center; padding-bottom: 0;}",
@@ -248,13 +248,13 @@
           "type": "heading",
           "settings": {
             "heading": "Formulated for People Who Take Their Health Seriously.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_YVnc39": {
           "type": "text",
           "settings": {
-            "text": "<p>Ben Greenfield is one of the world's foremost authorities on human performance and longevity. A New York Times bestselling author, top-ranked personal trainer, and internationally recognized health consultant, Ben has spent decades translating the cutting edge of bioscience into practical, liveable strategies.<br/><br/>We've been proud partners since 2023, united by a belief that the formulas people put in their bodies should be held to the highest standard.</p><ul><li>New York Times Bestselling Author</li><li>Top-ranked personal trainer in America</li><li>Internationally recognized health consultant & speaker</li></ul>"
+            "text": "<p>Ben Greenfield is one of the world's foremost authorities on human performance and longevity. A New York Times bestselling author, top-ranked personal trainer, and internationally recognized health consultant, Ben has spent decades translating the cutting edge of bioscience into practical, liveable strategies.<br/><br/>We've been proud partners since 2023, united by a belief that the formulas people put in their bodies should be held to the highest standard.</p>"
           }
         },
         "button_DCywgB": {
@@ -274,6 +274,52 @@
         "heading_EJr8pf",
         "text_YVnc39",
         "button_DCywgB"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-c386b73c-3983-4df4-a2f1-d5aa15164370",
+        "full_width": true,
+        "anchor_id": "",
+        "anchor_offset": 120,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_4aeh9V": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WQcqkj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Formulated for People Who Take Their Health Seriously.",
+            "heading_size": "h1"
+          }
+        },
+        "text_GweN9e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ben Greenfield is one of the world's foremost authorities on human performance and longevity. A New York Times bestselling author, top-ranked personal trainer, and internationally recognized health consultant, Ben has spent decades translating the cutting edge of bioscience into practical, liveable strategies.<br/><br/>We've been proud partners since 2023, united by a belief that the formulas people put in their bodies should be held to the highest standard.</p><ul><li>New York Times Bestselling Author</li><li>Top-ranked personal trainer in America</li><li>Internationally recognized health consultant & speaker</li></ul>"
+          }
+        },
+        "button_xkAw9X": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WQcqkj",
+        "text_GweN9e",
+        "button_xkAw9X"
       ],
       "disabled": true,
       "name": "t:sections.rich-text.presets.name",
@@ -1408,6 +1454,7 @@
     "rich_text_yCnXEF",
     "multicolumn_WejhcJ",
     "rich_text_jijbp6",
+    "rich_text_4aeh9V",
     "rich_text_iBaqeP",
     "image_with_text_yKLHHB",
     "image_with_text_EapeUP",
