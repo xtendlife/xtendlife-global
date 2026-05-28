@@ -170,7 +170,7 @@
         "anchor_id": "",
         "anchor_offset": 120,
         "padding_top": 28,
-        "padding_bottom": 52
+        "padding_bottom": 48
       }
     },
     "multicolumn_WejhcJ": {
@@ -830,96 +830,6 @@
         "autoplay_delay": 4000
       }
     },
-    "rich_text_YewMnP": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_RGRz3y": {
-          "type": "heading",
-          "settings": {
-            "heading": "As seen on",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_RGRz3y"
-      ],
-      "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-5",
-        "full_width": true,
-        "anchor_id": "",
-        "anchor_offset": 120,
-        "padding_top": 60,
-        "padding_bottom": 20
-      }
-    },
-    "image_infinite_scroll_6YVr3i": {
-      "type": "image-infinite-scroll",
-      "blocks": {
-        "image_EahCNG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Logo-USA_Today_200x_1.png",
-            "link": ""
-          }
-        },
-        "image_wQp7ij": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Logo-CBS_News_200x_1.png",
-            "link": ""
-          }
-        },
-        "image_36p7tN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DrTalks_Logo-02_400x_1.png",
-            "link": ""
-          }
-        },
-        "image_Qw9PXi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Logo-Fox_News_400x_1.png",
-            "link": ""
-          }
-        },
-        "image_nxEX3U": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Logo-NBC_200x_1.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_EahCNG",
-        "image_wQp7ij",
-        "image_36p7tN",
-        "image_Qw9PXi",
-        "image_nxEX3U"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "@media (min-width: 750px) {.image-scroll-wrapper {animation: none !important; justify-content: space-evenly; align-items: center; }}",
-        "@media (max-width: 749px) {.image-scroll-wrapper {gap: 4rem; }}"
-      ],
-      "name": "Image Infinite Scroll",
-      "settings": {
-        "background_color": "#f4f8fb",
-        "image_size_constraint": "height",
-        "image_max_size": 50,
-        "scroll_speed": 15,
-        "repeat_count": 1,
-        "image_gap": 0,
-        "padding_top": 20,
-        "padding_bottom": 60
-      }
-    },
     "image_with_text_HHyM8a": {
       "type": "image-with-text",
       "blocks": {
@@ -1463,8 +1373,6 @@
     "image_with_text_Hf4mPq",
     "multicolumn_6ADcV9",
     "reviews_slider_EnTCee",
-    "rich_text_YewMnP",
-    "image_infinite_scroll_6YVr3i",
     "image_with_text_HHyM8a",
     "image_with_text_83HE6c",
     "comparison_chart_Ehzkpz",
