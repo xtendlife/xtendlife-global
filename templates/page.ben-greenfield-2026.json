@@ -448,12 +448,22 @@
             "page": "",
             "open": true
           }
+        },
+        "collapsible_row_HxJC8k": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cardiovascular Support",
+            "row_content": "<p>A healthy inflammatory response supports cardiovascular health and normal arterial function. Studies show that tocotrienols vitamin E helps maintain healthy cholesterol levels and overall cardiovascular function.</p>",
+            "page": "",
+            "open": false
+          }
         }
       },
       "block_order": [
         "heading_dLJVPb",
         "text_E84X8D",
-        "collapsible_row_RbNYz3"
+        "collapsible_row_RbNYz3",
+        "collapsible_row_HxJC8k"
       ],
       "custom_css": [
         ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
