@@ -12,6 +12,37 @@
     "media_hero_slider_VC34DA": {
       "type": "media-hero-slider",
       "blocks": {
+        "slide_jdHtG6": {
+          "type": "slide",
+          "name": "Slide-TB HP HERO Banner",
+          "settings": {
+            "image": "shopify://shop_images/HP_TB_Banner2_1920x685_f13be987-e51d-40ae-a4a7-87957ab7fa94.png",
+            "image_tablet": "shopify://shop_images/HP_TB_Tablet2_1500x1377_3cf81bdc-cbdd-4266-a9f7-6b7741a09825.png",
+            "mobile_inline_image": "shopify://shop_images/HP_TB_Mob-INLINE_448x323_07694945-2b06-4a5c-b68a-179ec0eb4490.png",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 30,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Total Age-Defying Support on a Cellular Level",
+            "heading_size": "h1",
+            "heading_max_width": 610,
+            "text": "A comprehensive daily nutrient system with over 90 ingredients tailored for men and women.",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 350,
+            "small_text": "",
+            "small_text_font_size_desktop": 12,
+            "small_text_font_size_mobile": 9,
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/total-balance-range",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "slide_piLzVx": {
           "type": "slide",
           "disabled": true,
@@ -45,6 +76,7 @@
         },
         "slide_fyNhkn": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Webinar_HP_LAND_Desk_1920x685_2.jpg",
             "image_tablet": "shopify://shop_images/XL_Webinar_HP_LAND_Tablet_1500x1377__2.jpg",
@@ -71,37 +103,6 @@
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
-          }
-        },
-        "slide_jdHtG6": {
-          "type": "slide",
-          "name": "Slide-TB HP HERO Banner",
-          "settings": {
-            "image": "shopify://shop_images/HP_TB_Banner2_1920x685_f13be987-e51d-40ae-a4a7-87957ab7fa94.png",
-            "image_tablet": "shopify://shop_images/HP_TB_Tablet2_1500x1377_3cf81bdc-cbdd-4266-a9f7-6b7741a09825.png",
-            "mobile_inline_image": "shopify://shop_images/HP_TB_Mob-INLINE_448x323_07694945-2b06-4a5c-b68a-179ec0eb4490.png",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 30,
-            "text_color": "#1f1946",
-            "text_color_mobile": "#1f1946",
-            "heading": "Total Age-Defying Support on a Cellular Level",
-            "heading_size": "h1",
-            "heading_max_width": 610,
-            "text": "A comprehensive daily nutrient system with over 90 ingredients tailored for men and women.",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 350,
-            "small_text": "",
-            "small_text_font_size_desktop": 12,
-            "small_text_font_size_mobile": 9,
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify://collections/total-balance-range",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "slide_hwDDwj": {
@@ -327,9 +328,9 @@
         }
       },
       "block_order": [
+        "slide_jdHtG6",
         "slide_piLzVx",
         "slide_fyNhkn",
-        "slide_jdHtG6",
         "slide_hwDDwj",
         "slide_DXH6Lj",
         "slide_BHzj6J",
