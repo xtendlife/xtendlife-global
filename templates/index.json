@@ -16,9 +16,9 @@
           "type": "slide",
           "name": "Slide-TB HP HERO Banner",
           "settings": {
-            "image": "shopify://shop_images/HP_TB_Banner2_1920x685_f13be987-e51d-40ae-a4a7-87957ab7fa94.png",
-            "image_tablet": "shopify://shop_images/HP_TB_Tablet2_1500x1377_3cf81bdc-cbdd-4266-a9f7-6b7741a09825.png",
-            "mobile_inline_image": "shopify://shop_images/HP_TB_Mob-INLINE_448x323_07694945-2b06-4a5c-b68a-179ec0eb4490.png",
+            "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
+            "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_80c9f563-ce65-439d-ab57-246e7c14897e.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_TPB_HP_LAND_Mob-INLINE_448x323_9e531760-6241-4246-bd2b-2463e12ca227.jpg",
             "mobile_inline_bg": "#ffffff",
             "video_mp4": "",
             "video_adapt_ratio": 30,
