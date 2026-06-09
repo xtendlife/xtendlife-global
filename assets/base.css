@@ -3210,6 +3210,13 @@ details-disclosure > details {
   position: relative;
 }
 
+/* 9JUN26 JR-XL | Remove extra Shop now on desktop */
+@media screen and (min-width: 990px) {
+  header-menu #HeaderMenu-shop-shop-all{
+    display:none !important;
+  }
+}
+
 @keyframes animateMenuOpen {
   0% {
     opacity: 0;
