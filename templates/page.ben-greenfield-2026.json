@@ -457,6 +457,7 @@
         "text_QNdBXj",
         "button_GKYUJG"
       ],
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 750px) {.image-with-text__content {justify-content: center; }}",
         ".image-with-text__media img {border-radius: 10px;}",
@@ -567,6 +568,7 @@
         "text_kByPWG",
         "button_MHd4pU"
       ],
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 750px) {.image-with-text__content {justify-content: center; }}",
         ".image-with-text__media img {border-radius: 10px;}",
