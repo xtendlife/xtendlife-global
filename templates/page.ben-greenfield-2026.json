@@ -574,15 +574,15 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Digestive_Health_iPad_660bc4f5-4c6b-4842-ac38-191d261076dc.png",
-        "height": "medium",
+        "image": "shopify://shop_images/Digestive_Health_iPad.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "image_replacement_text": "",
         "layout": "text_first",
         "image_behavior": "none",
         "image_bleed": false,
         "content_layout": "no-overlap",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -742,7 +742,7 @@
         "text_K4YWwz": {
           "type": "text",
           "settings": {
-            "text": "<p>Join Ben Greenfield and Xtendlife in supporting your optimized life.<br/>Apply code BEN15 at checkout. No minimum spend required.</p>",
+            "text": "<p>Join Ben Greenfield and Xtendlife in supporting your optimized life.<br/>Apply code GREENFIELD at checkout. No minimum spend required.</p>",
             "text_style": "body"
           }
         },
