@@ -524,7 +524,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "image_replacement_text": "",
-        "layout": "image_first",
+        "layout": "text_first",
         "image_behavior": "none",
         "image_bleed": false,
         "content_layout": "no-overlap",
