@@ -465,7 +465,7 @@
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Tocotrienols_PDP_asset-01.png",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "image_replacement_text": "",
         "layout": "text_first",
@@ -473,6 +473,116 @@
         "image_bleed": false,
         "content_layout": "no-overlap",
         "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_8qTKpj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rkpzkg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prosta Support Advanced",
+            "heading_size": "h1"
+          }
+        },
+        "text_DT993N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An advanced evolution of our original Prostate Support formula, combining three evidence-based ingredients that work in complementary ways on the hormones, inflammation, and urine flow that drive age-related prostate symptoms. Saw Palmetto, Stinging Nettle Root Extract, and Beta-Sitosterol each have clinical evidence behind them, and research suggests they are more effective in combination. Most men notice initial improvements within 4 to 8 weeks, with full benefits typically developing over 3 to 6 months of consistent use.<br/></p><p>Recommended for men over 50 experiencing age-related prostate or urinary symptoms. We recommend having your symptoms assessed by a medical professional to ensure this product is right for you.</p><ul><li>Supports easier urination and reduced nighttime frequency</li><li>Helps modulate DHT activity in prostate tissue</li><li>Healthy inflammation management within the prostate</li><li>Combines three ingredients that work in complementary ways on hormones, inflammation, and urine flow</li><li>Suitable for vegans and vegetarians</li></ul>",
+            "text_style": "body"
+          }
+        },
+        "button_36eYk4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/prosta-support-advanced",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rkpzkg",
+        "text_DT993N",
+        "button_36eYk4"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 750px) {.image-with-text__content {justify-content: center; }}",
+        ".image-with-text__media img {border-radius: 10px;}",
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 3rem 0 0; }}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Prostate-Support_Advanced_Bottle_Compressed.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "image_bleed": false,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_37AApk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_i678wi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sleep Through the Night Again",
+            "heading_size": "h1"
+          }
+        },
+        "text_kByPWG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Age-related prostate changes are common, but their impact on daily life often goes unspoken. Prosta Support Advanced was developed for men who want to stay active, sleep well, and feel more in control as they get older. What sets this formula apart is how its ingredients work together: saw palmetto and beta-sitosterol share overlapping mechanisms, and research indicates they are more effective in combination than either ingredient alone. This is reflected in how the formula is built.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_MHd4pU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/prosta-support-advanced",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_i678wi",
+        "text_kByPWG",
+        "button_MHd4pU"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 750px) {.image-with-text__content {justify-content: center; }}",
+        ".image-with-text__media img {border-radius: 10px;}",
+        "@media screen and (max-width: 749px) {.image-with-text__content {padding: 3rem 0 0; }}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Digestive_Health_iPad_660bc4f5-4c6b-4842-ac38-191d261076dc.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "image_replacement_text": "",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "image_bleed": false,
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
@@ -582,6 +692,7 @@
         "collapsible_row_FaR4Cc",
         "collapsible_row_CJb4LU"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__content {padding: 2rem 6rem 6rem 2rem;}",
         ".image-with-text__heading {margin-bottom: 2rem;}",
@@ -1388,6 +1499,8 @@
     "rich_text_iBaqeP",
     "image_with_text_yKLHHB",
     "image_with_text_EapeUP",
+    "image_with_text_8qTKpj",
+    "image_with_text_37AApk",
     "featured_collection_tab_grid_Ddm4Df",
     "image_with_text_YAamij",
     "image_with_text_Hf4mPq",
