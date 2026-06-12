@@ -76,6 +76,7 @@
         "slide_DXH6Lj": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo 2026",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Tablet_1500x1377_95059cc9-2b1f-4523-9212-3259f2ee8cbf.jpg",
