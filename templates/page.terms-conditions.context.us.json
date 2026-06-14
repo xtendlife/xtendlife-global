@@ -16,16 +16,6 @@
     "collapsible_content_KcND43": {
       "settings": {},
       "blocks": {
-        "collapsible_row_FGKteG": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "Memorial Day 2026",
-            "icon": "none",
-            "row_content": "<ul><li>The 20% discount offer is available from 6:00 PM EDT May 21, 2026 to 6:00 PM EDT May 25, 2026, or until supplies last, whichever occurs first.  </li><li>Receive 20% off bundles, when you use the specified discount code in the Xtendlife online store. </li><li>If you return your products purchased in the discount period, the dollar value of the discounted products will be refunded. </li><li>To qualify, the discount code must be entered on the Xtendlife website in the discount code field at checkout.  </li><li>The discount code is valid exclusively for one use per customer on the Xtendlife checkout.  </li><li>The discount code cannot be deducted retrospectively once the order has been completed and charged.  </li><li> The offer cannot be applied to previous purchases or be combined with other special discounts, discount codes or offers. Subscribe & Save members must place a new order through checkout. </li><li>The discount code is not transferable and may not be resold or redeemed for cash.  </li><li>The discount code will be invalid if any of the terms and conditions are violated. </li></ul>",
-            "page": ""
-          }
-        },
         "collapsible_row_NGhCqg": {
           "settings": {
             "icon": "none"
@@ -53,8 +43,8 @@
         "collapsible_row_RPqHGM",
         "collapsible_row_zwxRVU",
         "collapsible_row_XtKrBb",
-        "collapsible_row_FGKteG",
-        "collapsible_row_NGhCqg"
+        "collapsible_row_NGhCqg",
+        "collapsible_row_xELxJM"
       ]
     }
   }
