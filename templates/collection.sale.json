@@ -100,9 +100,9 @@
           "type": "tab",
           "settings": {
             "label": "Bundles",
-            "collection": "all-bundles",
+            "collection": "sale",
             "limit": 15,
-            "view_all": true,
+            "view_all": false,
             "static_enable": true,
             "static_position": "first",
             "static_full_row": false,
