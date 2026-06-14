@@ -14,6 +14,7 @@
       "blocks": {
         "slide_piLzVx": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Desk_1920x685_4f471c2d-1776-48e0-a393-0371356cba06.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Tablet_1500x1377_e03a2093-3b19-4aeb-8b20-6d184cb3a08b.jpg",
@@ -42,41 +43,9 @@
             "button_style_secondary_2": false
           }
         },
-        "slide_jdHtG6": {
-          "type": "slide",
-          "name": "Slide-TB HP HERO Banner",
-          "settings": {
-            "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
-            "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_80c9f563-ce65-439d-ab57-246e7c14897e.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_TPB_HP_LAND_Mob-INLINE_448x323_9e531760-6241-4246-bd2b-2463e12ca227.jpg",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 30,
-            "text_color": "#1f1946",
-            "text_color_mobile": "#1f1946",
-            "heading": "Total Age-Defying Support on a Cellular Level",
-            "heading_size": "h1",
-            "heading_max_width": 610,
-            "text": "A comprehensive daily nutrient system with over 90 ingredients tailored for men and women.",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 350,
-            "small_text": "",
-            "small_text_font_size_desktop": 12,
-            "small_text_font_size_mobile": 9,
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify://collections/total-balance-range",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "slide_DXH6Lj": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo 2026",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Tablet_1500x1377_95059cc9-2b1f-4523-9212-3259f2ee8cbf.jpg",
@@ -105,6 +74,38 @@
             "button_style_secondary_2": false
           }
         },
+        "slide_jdHtG6": {
+          "type": "slide",
+          "name": "Slide-TB HP HERO Banner",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
+            "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_80c9f563-ce65-439d-ab57-246e7c14897e.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_TPB_HP_LAND_Mob-INLINE_448x323_9e531760-6241-4246-bd2b-2463e12ca227.jpg",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 30,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Total Age-Defying Support on a Cellular Level",
+            "heading_size": "h1",
+            "heading_max_width": 610,
+            "text": "A comprehensive daily nutrient system with over 90 ingredients tailored for men and women.",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 350,
+            "small_text": "",
+            "small_text_font_size_desktop": 12,
+            "small_text_font_size_mobile": 9,
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/total-balance-range",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "slide_fyNhkn": {
           "type": "slide",
           "disabled": true,
@@ -117,7 +118,7 @@
             "video_adapt_ratio": 30,
             "text_color": "#ffffff",
             "text_color_mobile": "#1f1946",
-            "heading": "Heart Health<br>Webinar",
+            "heading": "Heart HealthWebinar",
             "heading_size": "h1",
             "heading_max_width": 500,
             "text": "Join Dr Joel Kahn and Dr Amanda Wiggins for practical advice you can stick to.",
@@ -328,8 +329,8 @@
       },
       "block_order": [
         "slide_piLzVx",
-        "slide_jdHtG6",
         "slide_DXH6Lj",
+        "slide_jdHtG6",
         "slide_fyNhkn",
         "slide_hwDDwj",
         "slide_BHzj6J",
