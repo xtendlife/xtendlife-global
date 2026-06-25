@@ -26,7 +26,7 @@
           "settings": {
             "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_033189d9-3122-4981-9983-4f3ab418f362.jpg",
             "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_b6181e27-16e4-4e12-810c-d32d8f0dc84b.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob-INLINE_448x323_9fc76981-9b04-4a0b-a40d-bffc5494e519.jpg",
+            "image_mobile": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob_1100x1291_89cb04e2-2a7f-4e0d-8b2c-dfaf6defebd0.jpg",
             "mobile_inline_bg": "rgba(0,0,0,0)",
             "video_mp4": "",
             "video_adapt_ratio": 100,
