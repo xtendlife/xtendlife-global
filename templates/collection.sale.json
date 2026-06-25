@@ -24,18 +24,18 @@
         "slide_fTk4Hh": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_LAND_Desk_2000x750_bf6c460b-db3d-4f87-86a3-4b280e1c8e1b.jpg",
-            "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_US_UK_LAND_Tablet_950x750_4992cb3a-d719-43d6-a650-eca07ebfde3b.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Mob-INLINE_448x323_b3a481b8-5d00-4a8b-b14d-5c0f2069de2b.jpg",
+            "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_033189d9-3122-4981-9983-4f3ab418f362.jpg",
+            "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_b6181e27-16e4-4e12-810c-d32d8f0dc84b.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob-INLINE_448x323_9fc76981-9b04-4a0b-a40d-bffc5494e519.jpg",
             "mobile_inline_bg": "rgba(0,0,0,0)",
             "video_mp4": "",
             "video_adapt_ratio": 100,
             "text_color": "#1f1946",
             "text_color_mobile": "#1f1946",
-            "heading": "Support Daily Wellness",
+            "heading": "Missed Prime Day? Invest In You.",
             "heading_size": "h1",
             "heading_max_width": 500,
-            "text": "Support your wellbeing with 20% off selected wellness bundles. Use code MENS20.",
+            "text": "Save 25% sitewide* for a limited time. Use Code: FORYOU25",
             "text_style": "body",
             "subtitle_font_size_desktop": 24,
             "subtitle_font_size_mobile": 18,
@@ -80,12 +80,11 @@
       "blocks": {
         "tab_HArBQh": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "label": "Gifts for Mom",
-            "collection": "mothers-day",
+            "label": "Supplements",
+            "collection": "supplements",
             "limit": 24,
-            "view_all": false,
+            "view_all": true,
             "static_enable": false,
             "static_position": "first",
             "static_full_row": false,
@@ -100,9 +99,9 @@
           "type": "tab",
           "settings": {
             "label": "Bundles",
-            "collection": "sale",
-            "limit": 15,
-            "view_all": false,
+            "collection": "all-bundles",
+            "limit": 24,
+            "view_all": true,
             "static_enable": true,
             "static_position": "first",
             "static_full_row": false,
@@ -115,7 +114,6 @@
         },
         "tab_R46dJx": {
           "type": "tab",
-          "disabled": true,
           "settings": {
             "label": "Skincare",
             "collection": "skincare",
