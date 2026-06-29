@@ -14,6 +14,7 @@
       "blocks": {
         "slide_piLzVx": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Desk_1920x685_4f471c2d-1776-48e0-a393-0371356cba06.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Tablet_1500x1377_e03a2093-3b19-4aeb-8b20-6d184cb3a08b.jpg",
@@ -77,6 +78,7 @@
         "slide_jdHtG6": {
           "type": "slide",
           "name": "Slide-TB HP HERO Banner",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_80c9f563-ce65-439d-ab57-246e7c14897e.jpg",
@@ -107,7 +109,6 @@
         },
         "slide_fyNhkn": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_033189d9-3122-4981-9983-4f3ab418f362.jpg",
             "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_b6181e27-16e4-4e12-810c-d32d8f0dc84b.jpg",
@@ -115,7 +116,7 @@
             "mobile_inline_bg": "#ffffff",
             "video_mp4": "",
             "video_adapt_ratio": 30,
-            "text_color": "#1F1946",
+            "text_color": "#1f1946",
             "text_color_mobile": "#1f1946",
             "heading": "Missed Prime Day? Invest In You.",
             "heading_size": "h1",
