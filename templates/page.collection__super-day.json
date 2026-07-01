@@ -48,9 +48,9 @@
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Landing_Page_Banner_FA.png",
-        "image_tablet": "shopify://shop_images/Landing_Page_Tablet_FA.png",
-        "image_mobile": "shopify://shop_images/Landing_Page_Mob_FA.png",
+        "image": "shopify://shop_images/XL_Super_Day_LAND_Desk_2000x750_1db6a75b-86d8-4f5e-b93c-1fcd761d7242.jpg",
+        "image_tablet": "shopify://shop_images/XL_Super_Day_LAND_Tablet_950x750_0e554656-2f5a-48e3-9996-72f126452805.jpg",
+        "image_mobile": "shopify://shop_images/XL_Super_Day_LAND_Mobile_488x323_d3a03c3f-d916-4512-a64b-3fd8acc0e619.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "wide_container": true,
