@@ -721,6 +721,7 @@
         },
         "column_8xypY8": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "product": "omega-3-dha-plus",
             "row1_ticks": 1,
